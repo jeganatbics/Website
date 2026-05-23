@@ -26,6 +26,8 @@ debug.log
 
 # OpenCode / temp files
 .opencode/
+!.opencode/agents/
+!.opencode/agents/website-auditor.md
 .tmp-opencode-config/
 .opencode-debug-err.log
 .opencode-debug-out.log
