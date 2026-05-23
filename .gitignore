@@ -1,0 +1,41 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.env
+.env.*
+.venv/
+
+# PyCharm / VS Code
+.idea/
+.vscode/
+
+# Logs and runtime files
+*.log
+debug.log
+
+# OpenCode / temp files
+.opencode/
+.tmp-opencode-config/
+.opencode-debug-err.log
+.opencode-debug-out.log
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Optional generated reports and data files
+# Uncomment these if audit outputs should not be stored in Git
+# website_audit_data.json
+# website_audit_report.md
+# website_audit_report_May-23_215105.md
