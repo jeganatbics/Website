@@ -1,0 +1,2 @@
+# No external Python dependencies are required for the collector or OpenCode client.
+# This project uses Python standard library only.

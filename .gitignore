@@ -37,7 +37,7 @@ debug.log
 Thumbs.db
 
 # Optional generated reports and data files
-# Uncomment these if audit outputs should not be stored in Git
-# website_audit_data.json
-# website_audit_report.md
-# website_audit_report_May-23_215105.md
+# Generated audit outputs should not be stored in Git
+website_audit_data.json
+website_audit_report.md
+website_audit_report_May-23_215105.md
